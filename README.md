@@ -4,16 +4,30 @@
 
 # Will Paz
 
----
-
 **Mathematics · Data Science · Baseball**
 
 mathematics + data science @ Miami University.
 
-Interested in baseball analytics, machine learning, statistical modeling, and applied mathematics.
-
-`Python` `R` `SQL` `Statistics` `ML`
+*Exploring complex problems through mathematics, data, and machine learning*
 
 [LinkedIn](https://linkedin.com/in/will-paz) · [ORCID](https://orcid.org/0009-0008-4243-1649) · [X](https://x.com/WillPaz16)
+
+---
+
+**About Me**
+
+* I'm a Master's in Mathematics student at Miami University, working on my thesis and graduating in December 2026.
+* Currently working full-time as a Data Science Intern at Arhaus.
+* I like using data to explore interesting problems, from machine learning and predictive modeling to topological data analysis and whatever I happen to be curious about next.
+
+---
+**Tools and Skills**
+
+`Python` `R` `SQL` `Statistics` `Machine Learning`
+`Predictive Modeling` `Mathematical Modeling` `Data Analysis`
+`Data Visualization` `Optimization` `AI & LLMs`
+`NLP & Embeddings` `AI Automation` `Data Engineering`
+`Database Systems` `API Development` `Topological Data Analysis`
+`Scientific Computing` `Baseball Analytics`
 
 </div>
