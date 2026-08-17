@@ -14,6 +14,8 @@ mathematics + data science @ Miami University.
 
 ---
 
+<div align="left">
+
 **About Me**
 
 * I'm a Master's in Mathematics student at Miami University, working on my thesis and graduating in December 2026.
