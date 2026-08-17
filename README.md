@@ -8,7 +8,7 @@
 
 mathematics + data science @ Miami University.
 
-*Exploring complex problems through mathematics, data, and machine learning*
+*Exploring fun and complex problems through mathematics, data, and machine learning*
 
 [LinkedIn](https://linkedin.com/in/will-paz) · [ORCID](https://orcid.org/0009-0008-4243-1649) · [X](https://x.com/WillPaz16)
 
@@ -27,9 +27,8 @@ mathematics + data science @ Miami University.
 
 `Python` `R` `SQL` `Statistical Modeling` `Machine Learning`
 `Predictive Modeling` `Mathematical Modeling` `Optimization`
-`Interactive Data Visualization` `LLM Applications`
-`NLP & Semantic Search` `AI Automation` `Data Engineering`
-`Databases & Data Warehousing`
+`Interactive Data Visualization` `NLP & Sentiment Analysis` 
+`AI Automation` `Data Engineering` `Databases & Data Warehousing`
 
 ---
 ### Selected Work
