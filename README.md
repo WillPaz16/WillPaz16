@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/duck.png" width="30%" />
+<img src="./assets/duck.png" width="25%" />
 
 # Will Paz
 
