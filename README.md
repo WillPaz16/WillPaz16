@@ -19,7 +19,7 @@ mathematics + data science @ Miami University.
 **About Me**
 
 * I'm a Master's in Mathematics student at Miami University, working on my thesis and graduating in December 2026.
-* Currently working full-time as a Data Science Intern at Arhaus.
+* Currently working full-time as a Data Science Intern at Arhaus, formerly Director of Analytics for Miami Baseball.
 * I like using data to explore interesting problems, from machine learning and predictive modeling to topological data analysis and whatever I happen to be curious about next.
 
 ---
