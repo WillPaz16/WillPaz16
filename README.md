@@ -27,8 +27,8 @@ mathematics + data science @ Miami University.
 
 `Python` `R` `SQL` `Statistical Modeling` `Machine Learning`
 `Predictive Modeling` `Mathematical Modeling` `Optimization`
-`Interactive Data Visualization` `NLP & Sentiment Analysis` 
-`AI Automation` `Data Engineering` `Databases & Data Warehousing`
+`Shiny` `Plotly` `Snowflake` `NLP & Sentiment Analysis`
+`Deep Learning` `AI Automation` `Data Engineering` 
 
 ---
 ### Selected Work
