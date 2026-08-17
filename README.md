@@ -25,10 +25,20 @@ mathematics + data science @ Miami University.
 ---
 ### Tools and Skills
 
-`Python` `R` `SQL` `Statistical Modeling` `Machine Learning`
-`Predictive Modeling` `Mathematical Modeling` `Optimization`
-`Shiny` `Plotly` `Snowflake` `NLP & Sentiment Analysis`
-`Deep Learning` `AI Automation` `Data Engineering` 
+![Python](https://cdn.simpleicons.org/python) `Python`
+![R](https://cdn.simpleicons.org/r) `R`
+![SQL](https://cdn.simpleicons.org/mysql) `SQL`
+`Statistical Modeling`
+`Machine Learning`
+`Predictive Modeling`
+`Mathematical Modeling`
+`Optimization`
+![Shiny](https://cdn.simpleicons.org/shiny) `Shiny`
+![Plotly](https://cdn.simpleicons.org/plotly) `Plotly`
+![Snowflake](https://cdn.simpleicons.org/snowflake) `Snowflake`
+`NLP & Sentiment Analysis`
+`AI Automation`
+`Data Engineering`
 
 ---
 ### Selected Work
