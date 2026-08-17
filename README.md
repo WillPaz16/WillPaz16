@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**WillPaz16/WillPaz16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./assets/header.png" width="100%" />
 
-Here are some ideas to get you started:
+# Will Paz
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Mathematics · Data Science · Baseball**
+
+Mathematics + data science @ Miami University.
+Interested in baseball analytics, machine learning, and applied mathematics.
+
+`Python` `R` `SQL` `Statistics` `ML`
+
+[LinkedIn](https://linkedin.com/in/will-paz) · [ORCID](https://orcid.org/0009-0008-4243-1649)
+
+</div>
