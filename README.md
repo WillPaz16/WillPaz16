@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/8bitguy.jpg" width="100%" />
+<img src="./assets/pixelguy.png" width="30%" />
 
 # Will Paz
 
