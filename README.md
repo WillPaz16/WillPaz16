@@ -25,11 +25,10 @@ mathematics + data science @ Miami University.
 ---
 **Tools and Skills**
 
-`Python` `R` `SQL` `Statistics` `Machine Learning`
-`Predictive Modeling` `Mathematical Modeling` `Data Analysis`
-`Data Visualization` `Optimization` `AI & LLMs`
-`NLP & Embeddings` `AI Automation` `Data Engineering`
-`Database Systems` `API Development` `Topological Data Analysis`
-`Scientific Computing` `Baseball Analytics`
+`Python` `R` `SQL` `Statistical Modeling` `Machine Learning`
+`Predictive Modeling` `Mathematical Modeling` `Optimization`
+`Interactive Data Visualization` `LLM Applications`
+`NLP & Semantic Search` `AI Automation` `Data Engineering`
+`Databases & Data Warehousing`
 
 </div>
