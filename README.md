@@ -8,7 +8,7 @@
 
 mathematics + data science @ Miami University.
 
-*Exploring fun and complex problems through mathematics, data, and machine learning*
+*Exploring exciting and complex problems through mathematics, data, and machine learning*
 
 [LinkedIn](https://linkedin.com/in/will-paz) · [ORCID](https://orcid.org/0009-0008-4243-1649) · [X](https://x.com/WillPaz16)
 
@@ -19,8 +19,8 @@ mathematics + data science @ Miami University.
 ### About Me
 
 * I'm a Master's in Mathematics student at Miami University, working on my thesis and graduating in December 2026.
-* Currently working as a Data Science Intern at Arhaus after spending two years in analytics with Miami Baseball.
-* My work tends to sit somewhere between mathematical modeling, machine learning, and building things with data.
+* Currently working as a Data Science Intern at Arhaus after spending two years as Director of Analytics with Miami Baseball.
+* My work tends to sit somewhere between the intersection of all of the quantitative methods spanning applied mathematics, statistics, machine learning, AI, and just about anything in between.
 
 ---
 
