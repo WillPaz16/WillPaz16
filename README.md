@@ -25,31 +25,30 @@ mathematics + data science @ Miami University.
 ---
 ### Tools & Skills
 
-### Tools & Skills
-
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)]()
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Shiny](https://img.shields.io/badge/Shiny-1E90FF?style=flat-square&logo=shiny&logoColor=white)](https://shiny.posit.co/)
 [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)](https://plotly.com/)
-[![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)](https://www.snowflake.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)](https://www.snowflake.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
-[![Statistics](https://img.shields.io/badge/Statistics-555?style=flat-square)]()
+[![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://www.anthropic.com/)
+
+[![Statistical Modeling](https://img.shields.io/badge/Statistical%20Modeling-555?style=flat-square)]()
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-555?style=flat-square)]()
-[![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-555?style=flat-square)]()
-[![Mathematical Modeling](https://img.shields.io/badge/Mathematical%20Modeling-555?style=flat-square)]()
+[![Gradient Boosting](https://img.shields.io/badge/Gradient%20Boosting-555?style=flat-square)]()
+[![Clustering](https://img.shields.io/badge/Clustering-555?style=flat-square)]()
+[![Dimensionality Reduction](https://img.shields.io/badge/Dimensionality%20Reduction-555?style=flat-square)]()
 [![Optimization](https://img.shields.io/badge/Optimization-555?style=flat-square)]()
-[![NLP%20%26%20Embeddings](https://img.shields.io/badge/NLP%20%26%20Embeddings-555?style=flat-square)]()
-[![AI%20Automation](https://img.shields.io/badge/AI%20Automation-555?style=flat-square)]()
-[![Data Engineering](https://img.shields.io/badge/Data%20Engineering-555?style=flat-square)]()
+[![NLP & Embeddings](https://img.shields.io/badge/NLP%20%26%20Embeddings-555?style=flat-square)]()
+[![LLMs](https://img.shields.io/badge/LLMs-555?style=flat-square)]()
+[![AI Automation](https://img.shields.io/badge/AI%20Automation-555?style=flat-square)]()
+[![Knowledge Graphs](https://img.shields.io/badge/Knowledge%20Graphs-555?style=flat-square)]()
 [![Topological Data Analysis](https://img.shields.io/badge/Topological%20Data%20Analysis-555?style=flat-square)]()
 
 ---
