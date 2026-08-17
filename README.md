@@ -18,11 +18,14 @@ mathematics + data science @ Miami University.
 
 ### About Me
 
-* I'm a Master's in Mathematics student at Miami University, working on my thesis and graduating in December 2026.
-* Currently working full-time as a Data Science Intern at Arhaus, formerly Director of Analytics for Miami Baseball.
-* I like using data to explore interesting problems, from machine learning and predictive modeling to topological data analysis and whatever I happen to be curious about next.
+I'm a Master's in Mathematics student at Miami University, working on my thesis and graduating in December 2026.
+
+Currently working as a Data Science Intern at Arhaus after spending two years in analytics with Miami Baseball.
+
+My work tends to sit somewhere between mathematical modeling, machine learning, and building things with data.
 
 ---
+
 ### Tools & Skills
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
@@ -52,19 +55,17 @@ mathematics + data science @ Miami University.
 [![Topological Data Analysis](https://img.shields.io/badge/Topological%20Data%20Analysis-555?style=flat-square)]()
 
 ---
+
 ### Selected Work
 
-**Money Bull — Mathematical Sports Ranking**
-Developed a novel linear-algebraic ranking model for professional rodeo, published in *Mathematics and Sports* and presented at JMM 2025.
+**[Money Bull](https://github.com/WillPaz16/moneybull) — Mathematical Sports Ranking**  
+Developed a novel linear-algebraic ranking model for professional rodeo, published in *Mathematics and Sports* and presented at JMM 2025. [Paper](https://janeway.uncpress.org/ms/article/id/1329/)
 
-**TDA Pitch Clustering — Topological Data Analysis**
+**[TDA Pitch Clustering](https://github.com/WillPaz16/TDAPitchClustering) — Topological Data Analysis**  
 Applied the Mapper algorithm and clustering techniques to MLB pitch-level data to explore the structure and similarity of different pitch types.
 
-### Other Work
-
-* **Miami University Baseball** — Built analytics tools, models, dashboards, and scouting resources using Trackman and other baseball data to support player evaluation and coaching decisions.
-* **MoneyScore** — Mathematical modeling project presented at JMM 2026.
-* **Spotify Taste Graph** — Built a graph-based representation of music taste to explore relationships between artists, genres, and listening patterns.
-
+- **[Miami University Baseball](https://github.com/WillPaz16/MiamiBaseball)** — Built analytics tools, models, dashboards, and scouting resources using Trackman and other baseball data to support player evaluation and coaching decisions.
+- **[MoneyScore](https://github.com/WillPaz16/MoneyScore)** — Mathematical modeling project presented at JMM 2026.
+- **[Spotify Taste Graph](https://github.com/WillPaz16/SpotifyTasteGraph)** — Built a graph-based representation of music taste to explore relationships between artists, genres, and listening patterns.
 
 </div>
