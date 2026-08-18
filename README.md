@@ -60,10 +60,10 @@ mathematics + data science @ Miami University.
 Developed a novel linear-algebraic ranking model for professional rodeo, published in *Mathematics and Sports* and presented at JMM 2025. [Paper](https://janeway.uncpress.org/ms/article/id/1329/)
 
 **[TDA Pitch Clustering](https://github.com/WillPaz16/TDAPitchClustering) — Topological Data Analysis**  
-Applied the Mapper algorithm and clustering techniques to MLB pitch-level data to explore the structure and similarity of different pitch types.
+Applied the Mapper algorithm and clustering techniques to MLB pitch-level data to explore the structure and similarity of different pitch types. [Live demo](https://willpaz16.github.io/TDAPitchClustering/results/tda_mapper_graph.html)
 
 - **[Miami University Baseball](https://github.com/WillPaz16/MiamiBaseball)** — Built analytics tools, models, dashboards, and scouting resources using Trackman and other baseball data to support player evaluation and coaching decisions.
-- **[MoneyScore](https://github.com/cradduhj/hockeyMoneyScore)** — Mathematical modeling project (NHL performance data) presented at JMM 2026.
+- **[MoneyScore](https://github.com/cradduhj/hockeyMoneyScore)** — Joint project with Harrison Cradduck: NHL performance-vs-pay modeling (MoneyScore composite metric, Elo ratings, XGBoost cap-hit prediction), presented at JMM 2026.
 - **[Spotify Taste Graph](https://github.com/WillPaz16/SpotifyTasteGraph)** — Built a graph-based representation of music taste to explore relationships between artists, genres, and listening patterns.
 
 </div>
