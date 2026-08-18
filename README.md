@@ -10,7 +10,7 @@ mathematics + data science @ Miami University.
 
 *Exploring exciting and complex problems through mathematics, data, and machine learning*
 
-[LinkedIn](https://linkedin.com/in/will-paz) · [ORCID](https://orcid.org/0009-0008-4243-1649) · [X](https://x.com/WillPaz16)
+[LinkedIn](https://linkedin.com/in/will-paz) · [ORCID](https://orcid.org/0009-0008-4243-1649) · [X](https://x.com/WillPaz16) · [Resume](https://willpaz16.github.io/resume/)
 
 ---
 
