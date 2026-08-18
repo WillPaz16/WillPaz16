@@ -66,4 +66,14 @@ Applied the Mapper algorithm and clustering techniques to MLB pitch-level data t
 - **[MoneyScore](https://github.com/cradduhj/hockeyMoneyScore)** — With Harrison Cradduck, Joey Endres, and Sam Honicky: NHL performance-vs-pay modeling (MoneyScore composite metric, Elo ratings, XGBoost cap-hit prediction), presented at JMM 2026.
 - **[Spotify Taste Graph](https://github.com/WillPaz16/spotify-taste-graph)** — Built a graph-based representation of music taste to explore relationships between artists, genres, and listening patterns.
 
+---
+
+### Coursework Highlights
+
+**Databases** — [Cobalt Mineral DB](https://github.com/WillPaz16/cobalt-mineral-db): normalized MySQL schema, functional-dependency/normalization analysis, and stored procedures over USGS mineral-deposit data.
+
+**Machine Learning** — [ML Classifier Benchmark](https://github.com/WillPaz16/ml-classifier-benchmark): compared 9 classification algorithms (XGBoost, Random Forest, ANN, and more) on windowed sensor data, with full hyperparameter tuning and cross-validation.
+
+**Applied Math** — [SVD Image Compression](https://github.com/WillPaz16/svd-image-compression) and [House of Reps TDA](https://github.com/WillPaz16/house-of-reps-tda): linear algebra and topological methods applied to image compression and congressional voting data — the latter an early precursor to the TDA thesis work above.
+
 </div>
