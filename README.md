@@ -24,6 +24,13 @@ mathematics + data science @ Miami University.
 
 ---
 
+### Professional Experience
+
+**Data Science Intern, Arhaus** (2026)  
+Built an automated document-ingestion pipeline (PostgreSQL + React) for cross-team data workflows; applied graph-based analysis to ecommerce basket data for product-affinity insights; developed a deep learning sentiment model for customer feedback.
+
+---
+
 ### Tools & Skills
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
