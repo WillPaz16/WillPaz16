@@ -63,7 +63,7 @@ Developed a novel linear-algebraic ranking model for professional rodeo, publish
 Applied the Mapper algorithm and clustering techniques to MLB pitch-level data to explore the structure and similarity of different pitch types.
 
 - **[Miami University Baseball](https://github.com/WillPaz16/MiamiBaseball)** — Built analytics tools, models, dashboards, and scouting resources using Trackman and other baseball data to support player evaluation and coaching decisions.
-- **[MoneyScore](https://github.com/WillPaz16/MoneyScore)** — Mathematical modeling project presented at JMM 2026.
+- **[MoneyScore](https://github.com/cradduhj/hockeyMoneyScore)** — Mathematical modeling project (NHL performance data) presented at JMM 2026.
 - **[Spotify Taste Graph](https://github.com/WillPaz16/SpotifyTasteGraph)** — Built a graph-based representation of music taste to explore relationships between artists, genres, and listening patterns.
 
 </div>
