@@ -76,4 +76,6 @@ Applied the Mapper algorithm and clustering techniques to MLB pitch-level data t
 
 **Applied Math** — [SVD Image Compression](https://github.com/WillPaz16/svd-image-compression) and [House of Reps TDA](https://github.com/WillPaz16/house-of-reps-tda): linear algebra and topological methods applied to image compression and congressional voting data — the latter an early precursor to the TDA thesis work above.
 
+**Optimization** — [Schedule Optimization](https://github.com/WillPaz16/schedule-optimization): with Joseph Follrath and Jackson Frey, a mixed-integer linear program (OR-Tools) that builds optimal four-year course schedules under prerequisite, corequisite, and credit-load constraints.
+
 </div>
