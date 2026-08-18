@@ -70,7 +70,7 @@ Led a team of 4 student analysts overseeing advanced scouting, pitcher developme
 With Mia Adler, Ford McDill, and Tiffanie Ng: developed a novel linear-algebraic ranking model for professional rodeo, published in *Mathematics and Sports* and presented at JMM 2025. [Paper](https://janeway.uncpress.org/ms/article/id/1329/)
 
 **[TDA Pitch Clustering](https://github.com/WillPaz16/tda-pitch-clustering) — Topological Data Analysis**  
-Applied the Mapper algorithm and clustering techniques to MLB pitch-level data to explore the structure and similarity of different pitch types. [Live demo](https://willpaz16.github.io/tda-pitch-clustering/results/tda_mapper_graph.html)
+Applied the Mapper algorithm and clustering techniques to MLB pitch-level data to explore the structure and similarity of different pitch types. [Live demo](https://willpaz16.github.io/tda-pitch-clustering/results/mapper_pitch_types_colored.html)
 
 - **[Miami University Baseball](https://github.com/WillPaz16/miami-baseball)** — Built analytics tools, models, dashboards, and scouting resources using Trackman and other baseball data to support player evaluation and coaching decisions.
 - **[MoneyScore](https://github.com/cradduhj/hockeyMoneyScore)** — With Harrison Cradduck, Joey Endres, and Sam Honicky: NHL performance-vs-pay modeling (MoneyScore composite metric, Elo ratings, XGBoost cap-hit prediction), presented at JMM 2026.
