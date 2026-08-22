@@ -75,7 +75,7 @@ Applied the Mapper algorithm and clustering techniques to MLB pitch-level data t
 - **[Miami University Baseball](https://github.com/WillPaz16/miami-baseball)** — Built analytics tools, models, dashboards, and scouting resources using Trackman and other baseball data to support player evaluation and coaching decisions.
 - **[MoneyScore](https://github.com/cradduhj/hockeyMoneyScore)** — With Harrison Cradduck, Joey Endres, and Sam Honicky: NHL performance-vs-pay modeling (MoneyScore composite metric, Elo ratings, XGBoost cap-hit prediction), presented at JMM 2026.
 - **[Spotify Taste Graph](https://github.com/WillPaz16/spotify-taste-graph)** — Built a graph-based representation of music taste to explore relationships between artists, genres, and listening patterns.
-- **[College Baseball Trackman DB](https://github.com/WillPaz16/college-baseball-trackman-db)** — Audited and revamped a 17-table, 3.5M-row-per-table MySQL schema storing national college baseball Trackman data: added missing primary keys, 31 indexes, and real foreign key constraints (cutting a representative join from 15–40 minutes to 47 seconds), and found and fixed a data-integrity bug that had silently broken 100% of catcher-level joins.
+- **[College Baseball Trackman DB](https://github.com/WillPaz16/college-baseball-trackman-db)** — Decomposed national college baseball Trackman data (delivered as flat, per-game pitch-level CSVs) into a 17-table, 3NF-normalized MySQL schema. Hardened it with primary keys, 31 indexes, and real foreign key constraints (cutting a representative join from 15–40 minutes to 47 seconds), and found and fixed a data-integrity bug that had silently broken 100% of catcher-level joins.
 
 ---
 
