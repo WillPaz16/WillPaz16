@@ -64,7 +64,9 @@ Led a team of 4 student analysts overseeing advanced scouting, pitcher developme
 
 ---
 
-### Selected Work
+### Projects
+
+#### Baseball & Sports Analytics
 
 **[Money Bull](https://github.com/WillPaz16/moneybull) — Mathematical Sports Ranking**  
 With Mia Adler, Ford McDill, and Tiffanie Ng: developed a novel linear-algebraic ranking model for professional rodeo, published in *Mathematics and Sports* and presented at JMM 2025. [Paper](https://janeway.uncpress.org/ms/article/id/1329/)
@@ -74,19 +76,24 @@ Applied the Mapper algorithm and clustering techniques to MLB pitch-level data t
 
 - **[Miami University Baseball](https://github.com/WillPaz16/miami-baseball)** — Built analytics tools, models, dashboards, and scouting resources using Trackman and other baseball data to support player evaluation and coaching decisions.
 - **[MoneyScore](https://github.com/cradduhj/hockeyMoneyScore)** — With Harrison Cradduck, Joey Endres, and Sam Honicky: NHL performance-vs-pay modeling (MoneyScore composite metric, Elo ratings, XGBoost cap-hit prediction), presented at JMM 2026.
-- **[Spotify Taste Graph](https://github.com/WillPaz16/spotify-taste-graph)** — Built a graph-based representation of music taste to explore relationships between artists, genres, and listening patterns.
+
+#### Databases
+
 - **[College Baseball Trackman DB](https://github.com/WillPaz16/college-baseball-trackman-db)** — Decomposed national college baseball Trackman data (delivered as flat, per-game pitch-level CSVs) into a 17-table, 3NF-normalized MySQL schema. Hardened it with primary keys, 31 indexes, and real foreign key constraints (cutting a representative join from 15–40 minutes to 47 seconds), and found and fixed a data-integrity bug that had silently broken 100% of catcher-level joins.
+- **[Cobalt Mineral DB](https://github.com/WillPaz16/cobalt-mineral-db)** — Normalized MySQL schema, functional-dependency/normalization analysis, and stored procedures over USGS mineral-deposit data.
 
----
+#### Machine Learning
 
-### Coursework Highlights
+- **[ML Classifier Benchmark](https://github.com/WillPaz16/ml-classifier-benchmark)** — Compared 9 classification algorithms (XGBoost, Random Forest, ANN, and more) on windowed sensor data, with full hyperparameter tuning and cross-validation.
 
-**Databases** — [Cobalt Mineral DB](https://github.com/WillPaz16/cobalt-mineral-db): normalized MySQL schema, functional-dependency/normalization analysis, and stored procedures over USGS mineral-deposit data.
+#### Applied Math
 
-**Machine Learning** — [ML Classifier Benchmark](https://github.com/WillPaz16/ml-classifier-benchmark): compared 9 classification algorithms (XGBoost, Random Forest, ANN, and more) on windowed sensor data, with full hyperparameter tuning and cross-validation.
+- **[SVD Image Compression](https://github.com/WillPaz16/svd-image-compression)** and **[House of Reps TDA](https://github.com/WillPaz16/house-of-reps-tda)** — linear algebra and topological methods applied to image compression and congressional voting data, the latter an early precursor to the TDA thesis work above.
+- **[Schedule Optimization](https://github.com/WillPaz16/schedule-optimization)** — with Joseph Follrath and Jackson Frey, a mixed-integer linear program (OR-Tools) that builds optimal four-year course schedules under prerequisite, corequisite, and credit-load constraints.
 
-**Applied Math** — [SVD Image Compression](https://github.com/WillPaz16/svd-image-compression) and [House of Reps TDA](https://github.com/WillPaz16/house-of-reps-tda): linear algebra and topological methods applied to image compression and congressional voting data — the latter an early precursor to the TDA thesis work above.
+#### Other Projects
 
-**Optimization** — [Schedule Optimization](https://github.com/WillPaz16/schedule-optimization): with Joseph Follrath and Jackson Frey, a mixed-integer linear program (OR-Tools) that builds optimal four-year course schedules under prerequisite, corequisite, and credit-load constraints.
+- **[Spotify Taste Graph](https://github.com/WillPaz16/spotify-taste-graph)** — Built a graph-based representation of music taste to explore relationships between artists, genres, and listening patterns.
+- **[MLB Job Automation](https://github.com/WillPaz16/mlb-job-automation)** — Personal local-first job search automation for MLB baseball ops/analytics/R&D roles — scrapes team career pages, tracks applications through a pipeline, and assists with (never auto-submits) applications.
 
 </div>
