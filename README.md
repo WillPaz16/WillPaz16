@@ -93,7 +93,6 @@ Applied the Mapper algorithm and clustering techniques to MLB pitch-level data t
 
 #### Other Projects
 
-- **[Spotify Taste Graph](https://github.com/WillPaz16/spotify-taste-graph)** — Built a graph-based representation of music taste to explore relationships between artists, genres, and listening patterns.
 - **[MLB Job Automation](https://github.com/WillPaz16/mlb-job-automation)** — Personal local-first job search automation for MLB baseball ops/analytics/R&D roles — scrapes team career pages, tracks applications through a pipeline, and assists with (never auto-submits) applications.
 
 </div>
