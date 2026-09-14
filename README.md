@@ -91,8 +91,4 @@ Applied the Mapper algorithm and clustering techniques to MLB pitch-level data t
 - **[SVD Image Compression](https://github.com/WillPaz16/svd-image-compression)** and **[House of Reps TDA](https://github.com/WillPaz16/house-of-reps-tda)** — linear algebra and topological methods applied to image compression and congressional voting data, the latter an early precursor to the TDA thesis work above.
 - **[Schedule Optimization](https://github.com/WillPaz16/schedule-optimization)** — with Joseph Follrath and Jackson Frey, a mixed-integer linear program (OR-Tools) that builds optimal four-year course schedules under prerequisite, corequisite, and credit-load constraints.
 
-#### Other Projects
-
-- **[MLB Job Automation](https://github.com/WillPaz16/mlb-job-automation)** — Personal local-first job search automation for MLB baseball ops/analytics/R&D roles — scrapes team career pages, tracks applications through a pipeline, and assists with (never auto-submits) applications.
-
 </div>
