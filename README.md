@@ -101,4 +101,9 @@ Applied the Mapper algorithm to 721,799 MLB pitches to ask whether pitch types a
 - **[SVD Image Compression](https://github.com/WillPaz16/svd-image-compression)** and **[House of Reps TDA](https://github.com/WillPaz16/house-of-reps-tda)** — linear algebra and topological methods applied to image compression and congressional voting data, the latter an early precursor to the TDA thesis work above.
 - **[Schedule Optimization](https://github.com/WillPaz16/schedule-optimization)** — with Joseph Follrath and Jackson Frey, a mixed-integer linear program (OR-Tools) that builds optimal four-year course schedules under prerequisite, corequisite, and credit-load constraints.
 
+#### Games & Web Apps
+
+**[Double-Hand Euchre](https://github.com/WillPaz16/double-hand-euchre) — a new euchre variant, playable online**  
+Invented a two-player variant of euchre where each player controls both seats of a partnership, picks one hand blind, and only ever sees one hand at a time, with a 4 / 6 / 8-point "loner ladder" priced by how little you knew when you committed. The rules engine is a pure, seeded TypeScript reducer shared by the browser (solo against a bot) and a server-authoritative Cloudflare Durable Objects backend (online rooms, with hidden hands redacted per seat). The pixel art and audio are generated entirely by code, and it ships with 230+ tests, a 10,000-deal fuzz, a layout audit across 11 screen sizes, and CI/CD to Cloudflare. [Play it](https://doublehand.willpaz16.workers.dev)
+
 </div>
