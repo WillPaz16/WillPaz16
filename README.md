@@ -32,6 +32,15 @@ Built an automated document-ingestion pipeline (PostgreSQL + React) for cross-te
 **Director of Analytics & Head Student Manager, Miami University Baseball** (2023–2026)  
 Led a team of 4 student analysts overseeing advanced scouting, pitcher development plans, and pitch design collaboration with coaching staff. Built and deployed R Shiny/Plotly applications for player analysis; developed Stuff+, Location+, and swing-decision models. See [Miami University Baseball](https://github.com/WillPaz16/miami-baseball) below for the tooling built during this role.
 
+**Graduate Teaching Assistant, Polymath Jr.** (2025)  
+Guided student research teams applying linear algebra, machine learning, and statistical methods to sports analytics projects; led hands-on sessions on web scraping, APIs, and core Python packages.
+
+**Undergraduate Researcher, ICERM at Brown University** (2024)  
+Selected for Summer@ICERM, an 8-week NSF-funded mathematical modeling program. Co-authored [Money Bull](https://github.com/WillPaz16/moneybull), published in *Mathematics and Sports* (2025).
+
+**Peer Tutor of Mathematics and Statistics, Miami University** (2023–2026)  
+Level 3 CRLA-certified tutor for mathematics and statistics coursework.
+
 ---
 
 ### Tools & Skills
