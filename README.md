@@ -27,7 +27,7 @@ mathematics + data science @ Miami University.
 ### Professional Experience
 
 **Data Science Intern, Arhaus** (2026)  
-Built an automated document-ingestion pipeline (PostgreSQL + React) for cross-team data workflows, deployed via Azure and Docker; used Snowflake for graph-based ecommerce basket analysis and propensity modeling for retainment of high-valued customers.
+Built an automated document-ingestion pipeline (PostgreSQL + React) for cross-team data workflows, deployed via Azure and Docker. Performed long-term value modeling to support the customer insights team, building out a medley of new indicators used to inform targeted marketing strategies and customer retainment. Built a Snowflake native application (Next.js) to moonlight legacy systems, innovate customer survey reporting, and streamline data workflows at a cross-functional level.
 
 **Director of Analytics & Head Student Manager, Miami University Baseball** (2023–2026)  
 Led a team of 4 student analysts overseeing advanced scouting, pitcher development plans, and pitch design collaboration with coaching staff. Built and deployed R Shiny/Plotly applications for player analysis; developed Stuff+, Location+, and swing-decision models. See [Miami University Baseball](https://github.com/WillPaz16/miami-baseball) below for the tooling built during this role.
