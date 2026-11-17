@@ -81,8 +81,8 @@ Level 3 CRLA-certified tutor for mathematics and statistics coursework.
 **[Money Bull](https://github.com/WillPaz16/moneybull) — Mathematical Sports Ranking**  
 With Mia Adler, Ford McDill, and Tiffanie Ng: developed a novel linear-algebraic ranking model for professional rodeo, published in *Mathematics and Sports* and presented at JMM 2025. [Paper](https://janeway.uncpress.org/ms/article/id/1329/)
 
-**[TDA Pitch Clustering](https://github.com/WillPaz16/tda-pitch-clustering) — Topological Data Analysis**  
-Applied the Mapper algorithm and clustering techniques to MLB pitch-level data to explore the structure and similarity of different pitch types. [Live demo](https://willpaz16.github.io/tda-pitch-clustering/results/mapper_pitch_types_colored.html)
+**[The Shape of Pitch Space](https://github.com/WillPaz16/tda-pitch-clustering) — Master's Thesis, Topological Data Analysis**  
+Applied the Mapper algorithm to 721,799 MLB pitches to ask whether pitch types are separate groups or regions of one connected space, testing every structural claim against null models. Found that pitch shapes form a single continuum and that pitch-type labels cut through it: for the ~10% of pitches sitting on a label boundary, grading under the neighboring label shifts a Stuff+-style grade by a median of 11.5 points in seasons the models never saw. [Live demo](https://willpaz16.github.io/tda-pitch-clustering/results/mapper_pitch_types_colored.html)
 
 - **[Miami University Baseball](https://github.com/WillPaz16/miami-baseball)** — Built analytics tools, models, dashboards, and scouting resources using Trackman and other baseball data to support player evaluation and coaching decisions.
 - **[MoneyScore](https://github.com/cradduhj/hockeyMoneyScore)** — With Harrison Cradduck, Joey Endres, and Sam Honicky: NHL performance-vs-pay modeling (MoneyScore composite metric, Elo ratings, XGBoost cap-hit prediction), presented at JMM 2026.
