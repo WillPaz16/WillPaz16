@@ -27,7 +27,7 @@ mathematics + data science @ Miami University.
 ### Professional Experience
 
 **Data Science Intern, Arhaus** (2026)  
-Built an automated document-ingestion pipeline (PostgreSQL + React) for cross-team data workflows, deployed via Azure and Docker. Performed long-term value modeling to support the customer insights team, building out a medley of new indicators used to inform targeted marketing strategies and customer retainment. Built a Snowflake native application (Next.js) to moonlight legacy systems, innovate customer survey reporting, and streamline data workflows at a cross-functional level.
+Built an automated document-ingestion pipeline (PostgreSQL + React) for cross-team data workflows, deployed via Azure and Docker. Developed customer lifetime value models for the customer insights team, creating new customer indicators that inform targeted marketing and retention strategy. Shipped a Snowflake native application (Next.js) to sunset legacy systems, modernize customer survey reporting, and streamline data workflows across teams.
 
 **Director of Analytics & Head Student Manager, Miami University Baseball** (2023–2026)  
 Led a team of 4 student analysts overseeing advanced scouting, pitcher development plans, and pitch design collaboration with coaching staff. Built and deployed R Shiny/Plotly applications for player analysis; developed Stuff+, Location+, and swing-decision models. See [Miami University Baseball](https://github.com/WillPaz16/miami-baseball) below for the tooling built during this role.
@@ -50,6 +50,7 @@ Level 3 CRLA-certified tutor for mathematics and statistics coursework.
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Shiny](https://img.shields.io/badge/Shiny-1E90FF?style=flat-square&logo=shiny&logoColor=white)](https://shiny.posit.co/)
 [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)](https://plotly.com/)
