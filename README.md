@@ -4,7 +4,7 @@
 
 # Will Paz
 
-**Mathematics · Data Science · Baseball**
+**Mathematics · Data Science · Sports Analytics**
 
 mathematics + data science @ Miami University.
 
