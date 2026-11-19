@@ -18,9 +18,9 @@ mathematics + data science @ Miami University.
 
 ### About Me
 
-* I'm a Master's in Mathematics student at Miami University, working on my thesis and graduating in December 2026.
+* I completed my Master's in Mathematics at Miami University in December 2026, with a thesis on the topology of MLB pitch data.
 * Currently working as a Data Science Intern at Arhaus after spending two years as Director of Analytics with Miami Baseball.
-* My work tends to sit somewhere between the intersection of all of the quantitative methods spanning applied mathematics, statistics, machine learning, AI, and just about anything in between.
+* My work tends to sit at the intersection of applied mathematics, statistics, machine learning, and AI, usually with a baseball problem attached.
 
 ---
 
@@ -58,6 +58,7 @@ Level 3 CRLA-certified tutor for mathematics and statistics coursework.
 [![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)](https://www.snowflake.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)](https://www.latex-project.org/)
 [![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://www.anthropic.com/)
 
 [![Statistical Modeling](https://img.shields.io/badge/Statistical%20Modeling-555?style=flat-square)]()
@@ -71,6 +72,7 @@ Level 3 CRLA-certified tutor for mathematics and statistics coursework.
 [![AI Automation](https://img.shields.io/badge/AI%20Automation-555?style=flat-square)]()
 [![Knowledge Graphs](https://img.shields.io/badge/Knowledge%20Graphs-555?style=flat-square)]()
 [![Topological Data Analysis](https://img.shields.io/badge/Topological%20Data%20Analysis-555?style=flat-square)]()
+[![Persistent Homology](https://img.shields.io/badge/Persistent%20Homology-555?style=flat-square)]()
 
 ---
 
@@ -78,32 +80,32 @@ Level 3 CRLA-certified tutor for mathematics and statistics coursework.
 
 #### Baseball & Sports Analytics
 
-**[Money Bull](https://github.com/WillPaz16/moneybull) — Mathematical Sports Ranking**  
+**[The Shape of Pitch Space](https://github.com/WillPaz16/tda-pitch-clustering): Master's Thesis, Topological Data Analysis** (defended November 2026)  
+Showed with topological data analysis that MLB pitch types are regions of one continuum, not separate groups, so a pitch near a label line can grade differently depending on its label. [Live demo](https://willpaz16.github.io/tda-pitch-clustering/results/mapper_pitch_types_colored.html)
+
+**[Money Bull](https://github.com/WillPaz16/moneybull): Mathematical Sports Ranking**  
 With Mia Adler, Ford McDill, and Tiffanie Ng: developed a novel linear-algebraic ranking model for professional rodeo, published in *Mathematics and Sports* and presented at JMM 2025. [Paper](https://janeway.uncpress.org/ms/article/id/1329/)
 
-**[The Shape of Pitch Space](https://github.com/WillPaz16/tda-pitch-clustering) — Master's Thesis, Topological Data Analysis**  
-Applied the Mapper algorithm to 721,799 MLB pitches to ask whether pitch types are separate groups or regions of one connected space, testing every structural claim against null models. Found that pitch shapes form a single continuum and that pitch-type labels cut through it: for the ~10% of pitches sitting on a label boundary, grading under the neighboring label shifts a Stuff+-style grade by a median of 11.5 points in seasons the models never saw. [Live demo](https://willpaz16.github.io/tda-pitch-clustering/results/mapper_pitch_types_colored.html)
-
-- **[Miami University Baseball](https://github.com/WillPaz16/miami-baseball)** — Built analytics tools, models, dashboards, and scouting resources using Trackman and other baseball data to support player evaluation and coaching decisions.
-- **[MoneyScore](https://github.com/cradduhj/hockeyMoneyScore)** — With Harrison Cradduck, Joey Endres, and Sam Honicky: NHL performance-vs-pay modeling (MoneyScore composite metric, Elo ratings, XGBoost cap-hit prediction), presented at JMM 2026.
+- **[Miami University Baseball](https://github.com/WillPaz16/miami-baseball)**: Built analytics tools, models, dashboards, and scouting resources using Trackman and other baseball data to support player evaluation and coaching decisions.
+- **[MoneyScore](https://github.com/cradduhj/hockeyMoneyScore)**: NHL performance-vs-pay modeling with Harrison Cradduck, Joey Endres, and Sam Honicky (MoneyScore composite metric, Elo ratings, XGBoost cap-hit prediction), presented at JMM 2026.
 
 #### Databases
 
-- **[College Baseball Trackman DB](https://github.com/WillPaz16/college-baseball-trackman-db)** — Decomposed national college baseball Trackman data (delivered as flat, per-game pitch-level CSVs) into a 17-table, 3NF-normalized MySQL schema. Hardened it with primary keys, 31 indexes, and real foreign key constraints (cutting a representative join from 15–40 minutes to 47 seconds), and found and fixed a data-integrity bug that had silently broken 100% of catcher-level joins.
-- **[Cobalt Mineral DB](https://github.com/WillPaz16/cobalt-mineral-db)** — Normalized MySQL schema, functional-dependency/normalization analysis, and stored procedures over USGS mineral-deposit data.
+- **[College Baseball Trackman DB](https://github.com/WillPaz16/college-baseball-trackman-db)**: Decomposed national college baseball Trackman data (delivered as flat, per-game pitch-level CSVs) into a 17-table, 3NF-normalized MySQL schema. Hardened it with primary keys, 31 indexes, and real foreign key constraints (cutting a representative join from 15–40 minutes to 47 seconds), and found and fixed a data-integrity bug that had silently broken 100% of catcher-level joins.
+- **[Cobalt Mineral DB](https://github.com/WillPaz16/cobalt-mineral-db)**: Normalized MySQL schema, functional-dependency/normalization analysis, and stored procedures over USGS mineral-deposit data.
 
 #### Machine Learning
 
-- **[ML Classifier Benchmark](https://github.com/WillPaz16/ml-classifier-benchmark)** — Compared 9 classification algorithms (XGBoost, Random Forest, ANN, and more) on windowed sensor data, with full hyperparameter tuning and cross-validation.
+- **[ML Classifier Benchmark](https://github.com/WillPaz16/ml-classifier-benchmark)**: Compared 9 classification algorithms (XGBoost, Random Forest, ANN, and more) on windowed sensor data, with full hyperparameter tuning and cross-validation.
 
 #### Applied Math
 
-- **[SVD Image Compression](https://github.com/WillPaz16/svd-image-compression)** and **[House of Reps TDA](https://github.com/WillPaz16/house-of-reps-tda)** — linear algebra and topological methods applied to image compression and congressional voting data, the latter an early precursor to the TDA thesis work above.
-- **[Schedule Optimization](https://github.com/WillPaz16/schedule-optimization)** — with Joseph Follrath and Jackson Frey, a mixed-integer linear program (OR-Tools) that builds optimal four-year course schedules under prerequisite, corequisite, and credit-load constraints.
+- **[SVD Image Compression](https://github.com/WillPaz16/svd-image-compression)** and **[House of Reps TDA](https://github.com/WillPaz16/house-of-reps-tda)**: linear algebra and topological methods applied to image compression and congressional voting data, the latter an early precursor to the TDA thesis work above.
+- **[Schedule Optimization](https://github.com/WillPaz16/schedule-optimization)**: with Joseph Follrath and Jackson Frey, a mixed-integer linear program (OR-Tools) that builds optimal four-year course schedules under prerequisite, corequisite, and credit-load constraints.
 
 #### Games & Web Apps
 
-**[Double-Hand Euchre](https://github.com/WillPaz16/double-hand-euchre) — a new euchre variant, playable online**  
+**[Double-Hand Euchre](https://github.com/WillPaz16/double-hand-euchre): a new euchre variant, playable online**  
 Invented a two-player variant of euchre where each player controls both seats of a partnership, picks one hand blind, and only ever sees one hand at a time, with a 4 / 6 / 8-point "loner ladder" priced by how little you knew when you committed. The rules engine is a pure, seeded TypeScript reducer shared by the browser (solo against a bot) and a server-authoritative Cloudflare Durable Objects backend (online rooms, with hidden hands redacted per seat). The pixel art and audio are generated entirely by code, and it ships with 230+ tests, a 10,000-deal fuzz, a layout audit across 11 screen sizes, and CI/CD to Cloudflare. [Play it](https://doublehand.willpaz16.workers.dev)
 
 </div>
