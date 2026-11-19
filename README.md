@@ -18,9 +18,9 @@ mathematics + data science @ Miami University.
 
 ### About Me
 
-* I completed my Master's in Mathematics at Miami University in December 2026, with a thesis on the topology of MLB pitch data.
+* Master's in Mathematics from Miami University (December 2026).
 * Currently working as a Data Science Intern at Arhaus after spending two years as Director of Analytics with Miami Baseball.
-* My work tends to sit at the intersection of applied mathematics, statistics, machine learning, and AI, usually with a baseball problem attached.
+* My work tends to sit at the intersection of applied mathematics, statistics, machine learning, and AI, usually with a sports analytics problem attached, most often baseball.
 
 ---
 
